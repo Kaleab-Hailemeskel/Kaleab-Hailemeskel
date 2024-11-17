@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, Next.js, Kotlin**
 
-- 👯 I’m looking to collaborate on **Anyone with**
+- 👯 I’m looking to collaborate on **Anyone with eager to Learn and to Teach**
 
 - 📫 How to reach me **kaleabhailemeskel47@gmail.com**
 
