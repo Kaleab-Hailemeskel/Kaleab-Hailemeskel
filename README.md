@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaleab Hailemeskel</h1>
 <h3 align="center"> A Software Engineering Student at AASTU </h3>
-<img src="https://drive.google.com/file/d/1I2u-4hXdLZesB5O6bM-Z3rspSn3Au4_z/view?usp=drive_link" width="400" align = "right">
+<img src="https://drive.google.com/file/1I2u-4hXdLZesB5O6bM-Z3rspSn3Au4_z/view?usp=drive_link" width="400" align = "right">
 
 - 🔭 I’m currently working on **IETP project**
 
