@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaleab Hailemeskel</h1>
 <h3 align="center"> A Software Engineering Student at AASTU </h3>
-<img src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fpixeljeff%2Fart%2FCoding-990517671&psig=AOvVaw3flg6RyWIad1egwEGLqz3g&ust=1731925661171000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIi2lI2U44kDFQAAAAAdAAAAABAK](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fpixeljeff%2Fart%2FCoding-990517671&psig=AOvVaw3flg6RyWIad1egwEGLqz3g&ust=1731925661171000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIi2lI2U44kDFQAAAAAdAAAAABAK)](https://drive.google.com/file/d/1I2u-4hXdLZesB5O6bM-Z3rspSn3Au4_z/view?usp=sharing)" width="400" align = "right">
+<img src="https://drive.google.com/file/d/1I2u-4hXdLZesB5O6bM-Z3rspSn3Au4_z/view?usp=drive_link" width="400" align = "right">
 
 - 🔭 I’m currently working on **IETP project**
 
