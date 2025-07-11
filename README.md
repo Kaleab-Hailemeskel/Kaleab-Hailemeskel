@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Kaleab Hailemeskel</h1>
 <h3 align="center"> A Software Engineering Student at AASTU </h3>
 
-- 🔭 I’m currently working on **IETP project**
+- 🔭 I’m currently taking my intership at **A2SV/Eskelet**
 
-- 🌱 I’m currently learning **React, Next.js, Kotlin**
+- 🌱 I’m currently learning **GO lang for Backend Development**
 
 - 👯 I’m looking to collaborate on **Anyone with eager to Learn and to Teach**
 
